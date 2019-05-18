@@ -4,7 +4,7 @@
          "text":"Sample Menu Item - 1",
          "items":[  
             {  
-               "text":"Sample Menu Item - 1.1",
+               "text":"Dành cho Trưởng phó nhóm",
                "items":[  
                   {  
                      "text":"Sample Menu Item - 1.1.1",
@@ -28,7 +28,21 @@
          ]
       },
       {  
-         "text":"Sample Menu Item - 2",
+         "text":"Dành cho Ban Điều hành",
+         "items":[  
+            {  
+               "text":"Sample Menu Item - 2.1",
+               "items":[  
+                  {  
+                     "text":"Sample Menu Item - 2.1.1",
+                     "path":"SampleMenuItem_2_1_1.md"
+                  }
+               ]
+            }
+         ]
+      },
+      {  
+         "text":"Dành cho nhà phát triển",
          "items":[  
             {  
                "text":"Sample Menu Item - 2.1",
