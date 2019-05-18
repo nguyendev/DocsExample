@@ -1,27 +1,14 @@
 {  
    "items":[  
       {  
-         "text":"Sample Menu Item - 1",
+         "text":"Dành cho Trưởng phó nhóm",
          "items":[  
             {  
-               "text":"Dành cho Trưởng phó nhóm",
+               "text":"Thêm Thành viên",
                "items":[  
                   {  
-                     "text":"Sample Menu Item - 1.1.1",
+                     "text":"Đang làm...",
                      "path":"SampleMenuItem_1_1_1.md"
-                  }
-               ]
-            },
-            {  
-               "text":"Sample Menu Item - 1.2",
-               "items":[  
-                  {  
-                     "text":"Sample Menu Item - 1.2.1",
-                     "path":"SampleMenuItem_1_2_1.md"
-                  },
-                  {  
-                     "text":"Sample Menu Item - 1.2.2",
-                     "path":"SampleMenuItem_1_2_2.md"
                   }
                ]
             }
@@ -31,10 +18,10 @@
          "text":"Dành cho Ban Điều hành",
          "items":[  
             {  
-               "text":"Sample Menu Item - 2.1",
+               "text":"Thêm thành viên",
                "items":[  
                   {  
-                     "text":"Sample Menu Item - 2.1.1",
+                     "text":"Đang làm...",
                      "path":"SampleMenuItem_2_1_1.md"
                   }
                ]
@@ -45,12 +32,9 @@
          "text":"Dành cho nhà phát triển",
          "items":[  
             {  
-               "text":"Sample Menu Item - 2.1",
+               "text":"Đang làm",
                "items":[  
-                  {  
-                     "text":"Sample Menu Item - 2.1.1",
-                     "path":"SampleMenuItem_2_1_1.md"
-                  }
+                 
                ]
             }
          ]
