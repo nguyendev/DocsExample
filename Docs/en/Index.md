@@ -1,6 +1,4 @@
- This is a header
-
-Welcome to Docs Module.
+Website Thanh Niên Thủ Đức là Website nhằm giúp hỗ trợ trong việc quản lý thông tin các thành viên trong Ban Thanh Niên và cũng như hướng tới mục đích lâu dài trong việc gây dựng ban thanh niên nhất là việc gây dựng niềm tin
 
 ## This is a sub header
 
