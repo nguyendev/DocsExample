@@ -8,7 +8,11 @@
 - Hiển thị nơi ở thành viên dưới dạng biểu đồ
 
 ## Hướng dẫn sử dụng
-
+Bạn là:
+1. Trưởng phó nhóm
+- [Thêm thành viên](TPN/AddMember.md)
+- [Xem thông tin thành viên](TPN/DetailMember.md)
+2. Ban điều hành
 
 ## Bạn muốn đóng góp cho phần mềm BTN?
 Vui lòng liên hệ với BĐH bạn nhé
