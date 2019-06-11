@@ -1,17 +1,14 @@
-Website Thanh Niên Thủ Đức là Website nhằm giúp hỗ trợ trong việc quản lý thông tin các thành viên trong Ban Thanh Niên và cũng như hướng tới mục đích lâu dài trong việc gây dựng ban thanh niên nhất là việc gây dựng niềm tin
+**Website Thanh Niên Thủ Đức** là Website nhằm giúp hỗ trợ trong việc quản lý thông tin các thành viên trong Ban Thanh Niên và cũng như hướng tới mục đích lâu dài trong việc gây dựng ban thanh niên nhất là việc gây dựng niềm tin.
 
-## This is a sub header
+## Tính năng
+1. Quản lý thông tin các nhóm nhỏ
+- Thông tin của nhóm
+- Thông tin của các thành viên nhóm: Tên, số điện thoại, quê quán, địa chỉ hiện tại, môi trường tăng trưởng
+- Xuất danh sách nhóm nhỏ theo lựa chọn: Báp tem, sinh nhật quý
+- Hiển thị nơi ở thành viên dưới dạng biểu đồ
 
- [This is a link](https://abp.io) 
+## Hướng dẫn sử dụng
 
-![This is an image](https://abp.io/assets/my-image.png)
 
-## This is a code block
-
-```csharp
-public class Person
-{
-    public string Name { get; set; }
-
-    public string Address { get; set; }
-}
+## Bạn muốn đóng góp cho phần mềm BTN?
+Vui lòng liên hệ với BĐH bạn nhé
