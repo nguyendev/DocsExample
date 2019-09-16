@@ -53,4 +53,5 @@ Bao gồm trường học ĐH, CĐ mà ban viên từng học hoặc công việ
 
 **4. Môi trường**
 Là những môi trường các ban viên có cơ hội tăng trưởng về thuộc linh
+
 ![enter image description here](https://lh3.googleusercontent.com/h4IfOVSBTWKSk0Ujkr-uIOQtcTCXCF8tTJFqVsGU-nhAywPjuuQHF4FEN8ft5Z1IUOIsghaS89az)
