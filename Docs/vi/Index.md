@@ -10,8 +10,9 @@
 ## Hướng dẫn sử dụng
 Bạn là:
 1. Trưởng phó nhóm
-- [Thêm thành viên](TPN/AddMember.md)
-- [Xem thông tin thành viên](TPN/DetailMember.md)
+- [Thêm thành viên](TPN/ThemThanhVien.md)
+- Cập nhật thông tin thành viên
+  -  [Cập nhật ảnh đại diện](TPN/CapNhatAnhDaiDien.md)
 2. Ban điều hành
 
 ## Bạn muốn đóng góp cho phần mềm BTN?
