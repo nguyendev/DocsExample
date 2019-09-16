@@ -1,4 +1,4 @@
-![# Đăng nhập
+# Đăng nhập
 Đăng nhập vào phần mềm BTN và chọn **Nhóm nhỏ -> Thành Viên -> Thêm Thành Viên Mới**
 # Thêm thành viên]
 Bạn sẽ thấy có 4 tab hiển thị trên màn hình
