@@ -5,12 +5,7 @@
          "items":[  
             {  
                "text":"Thêm Thành viên",
-               "items":[  
-                  {  
-                     "text":"Đang làm...",
-                     "path":"SampleMenuItem_1_1_1.md"
-                  }
-               ]
+               "path":"TPN_ThemThanhVien.md"
             }
          ]
       },
