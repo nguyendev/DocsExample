@@ -6,6 +6,24 @@
             {  
                "text":"Thêm Thành viên",
                "path":"TPN/ThemThanhVien.md"
+            },
+			{  
+               "text":"Sửa Thông Tin",
+               "items":[  
+                  {  
+                     "text":"Cập nhật ảnh đại diện",
+                     "path":"TPN/CapNhatAnhDaiDien.md"
+                  }
+               ]
+            },
+			{  
+               "text":"Xóa thành viên",
+               "items":[  
+                  {  
+                     "text":"Đang làm",
+                     "path":"..."
+                  }
+               ]
             }
          ]
       },
@@ -17,7 +35,7 @@
                "items":[  
                   {  
                      "text":"Đang làm...",
-                     "path":"SampleMenuItem_2_1_1.md"
+                     "path":"..."
                   }
                ]
             }
